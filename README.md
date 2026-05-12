@@ -5,7 +5,7 @@ Food Waste Reduction Platform
 
 ## Team Leader:
 - Name: Sabien Mecaj
-- GitHub: smecaj22
+- GitHub: smecaj22ss
 
 ## Team Members:
 1. Migena Lami - GitHub: mlamaj23 - Email: [mlamaj23@epoka.edu.al]
